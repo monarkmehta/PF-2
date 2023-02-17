@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11af607b.css",
+    "main.js": "/static/js/main.e39c707f.js",
+    "static/media/aboutus.png": "/static/media/aboutus.76a5c8c489d6852b7fb6.png",
+    "static/media/ab.png": "/static/media/ab.0f7b03c7e8b387bd2bc9.png",
+    "static/media/pngwing.com (31).png": "/static/media/pngwing.com (31).736ea148cfcf09b00403.png",
+    "static/media/pngwing.com (37).png": "/static/media/pngwing.com (37).0c6c6cd7bce53e460713.png",
+    "static/media/pngwing.com (35).png": "/static/media/pngwing.com (35).c20f7f0fa6933d9101eb.png",
+    "static/media/WhatsApp Image 2022-11-12 at 7.18.34 PM.jpeg": "/static/media/WhatsApp Image 2022-11-12 at 7.18.34 PM.70994d0258f279341cb8.jpeg",
+    "static/media/pngwing.com (32).png": "/static/media/pngwing.com (32).43c861b92e0e92811d86.png",
+    "static/media/logo11.png": "/static/media/logo11.bf6f700f1a4f55ae259b.png",
+    "static/media/pngwing.com (38).png": "/static/media/pngwing.com (38).dce7f9b7baa992ce6fdb.png",
+    "static/media/pngwing.com (36).png": "/static/media/pngwing.com (36).8386e3cc0100cea4a12b.png",
+    "static/media/Frame 1.png": "/static/media/Frame 1.0c1b1b48f03d9e9b661c.png",
+    "static/media/pngwing.com (34).png": "/static/media/pngwing.com (34).f56c55ffc41e29cbddc9.png",
+    "index.html": "/index.html",
+    "main.11af607b.css.map": "/static/css/main.11af607b.css.map",
+    "main.e39c707f.js.map": "/static/js/main.e39c707f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11af607b.css",
+    "static/js/main.e39c707f.js"
+  ]
+}
